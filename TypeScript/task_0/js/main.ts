@@ -6,17 +6,17 @@ interface Student {
 }
 
 let student1: Student = {
-    firstName: "Richard",
-    lastName: "CoeurdeLion",
-    age: 33,
+    firstName: "James",
+    lastName: "Bond",
+    age: 54,
     location: "England"
 };
 
 let student2: Student = {
-    firstName: "Jeanne",
-    lastName: "d'Arc",
-    age: 19,
-    location: "France"
+    firstName: "John",
+    lastName: "Doe",
+    age: 20,
+    location: "USA"
 };
 
 let studentsList: Student[] = [student1, student2];
